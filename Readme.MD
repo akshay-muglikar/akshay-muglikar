@@ -1,12 +1,15 @@
 Akshay Muglikar
 
-Software engineer with 4+ years of industry experience in developing Web Applications. 
-Currently working as Software Engineer in ZS Associates. 
-Worked on Java, AngularJS, SQL.
+Software engineer with 6+ years of industry experience in developing Web Applications. 
+Currently working as Software Engineer in Energy Exemplar. 
+Worked on Java, C#, AngularJS, SQL.
 
-Software Engineer ZS Associates, Pune [May 2019 - Present]
-Full stack developer responsible for end-to-end web app development working in diverse facets of .NET development, encompassing analysis, design, development.
+Software Engineer - Energy Exemplar, Pune [May 2022 - Present]
+Full stack developer responsible for end-to-end web app development. Working in diverse facets of Java and C# .NET, encompassing analysis, design and development.
 
+Software Engineer - ZS Associates, Pune [May 2019 - May 2022]
+Developed low latency application majorly web based using agile guidelines.
+Designed and developed feature to validate and save data into database from text files.
 
 Academic Qualifications
 Bachelor of Technology in Information Technology from VIT, Pune [July 2012–May 2016]. 
