@@ -1,10 +1,9 @@
 Akshay Muglikar
 
-Software engineer with 6+ years of industry experience in developing Web Applications. 
-Currently working as Software Engineer in Energy Exemplar. 
+Software engineer with 7+ years of industry experience in developing Web Applications. 
 Worked on Java, C#, AngularJS, SQL.
 
-Software Engineer - Energy Exemplar, Pune [May 2022 - Present]
+Software Engineer
 Full stack developer responsible for end-to-end web app development. Working in diverse facets of Java and C# .NET, encompassing analysis, design and development.
 
 Software Engineer - ZS Associates, Pune [May 2019 - May 2022]
